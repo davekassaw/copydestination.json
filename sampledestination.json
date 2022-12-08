@@ -1,0 +1,356 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"id": "destination_old.1",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.36665,
+6.226519
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 1,
+"name": "048",
+"datetimes": "2021-12-03T12:06:01Z",
+"elevation": 2907.382,
+"code": 48,
+"full_name": "Tolata Yekerkeha den",
+"short_name": "Tolata",
+"zone": "Gamo",
+"wereda": "Deremalo",
+"kebele": "Eli Kodo",
+"locality_n": "Tolata",
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Existing",
+"area_sqkm": "20Ha",
+"yearly_est": "40",
+"unesco_reg": "No",
+"descriptio": "Kolata Bamboo Forest, This forest is one of the bamboo forests of Dera Malo woreda covers 20 hectare. It is located 23 km from Wacha, the capital of the district. The forest is protected and managed by Eli Kodo and Eli Doze Kebeles. It is Known as the fo"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.2",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.37216,
+6.252574
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 2,
+"name": "049",
+"datetimes": "2021-12-03T14:00:13Z",
+"elevation": 2286.241,
+"code": 49,
+"full_name": "Eli Bisrat Kidus Gebreal Gedam",
+"short_name": "Eli Gebreal",
+"zone": "Gamo",
+"wereda": "Deremalo",
+"kebele": "Eli Kodo",
+"locality_n": "Eli Amara",
+"organizati": "Public",
+"destinatio": "Man Made",
+"status": "Existing",
+"area_sqkm": "3Ha",
+"yearly_est": "700000",
+"unesco_reg": "No",
+"descriptio": "Eli Bisrat St. Gabriel Monastery is located in Dera Malo Woreda, Eli Kodo Kebele, 18 km from Wacha town. According to the historical writings of this monastery, it is said that in the 15th century, Emperor Zeraiakob was accompanied by priests and servant"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.3",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.338343,
+6.188698
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 3,
+"name": "051",
+"datetimes": "2021-12-06T11:05:40Z",
+"elevation": 3379.554,
+"code": 51,
+"full_name": "Guge Terara",
+"short_name": "Bale",
+"zone": "Gamo",
+"wereda": "Deremalo",
+"kebele": "Guge Shale",
+"locality_n": "Guge Shale",
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Existing",
+"area_sqkm": "15Ha",
+"yearly_est": "250",
+"unesco_reg": "No",
+"descriptio": "Guge Mauntain is one of the highest mountains in the Southern Regional State. Its altitude is 4,207 meters above sea level, the 3rd highest mountain in Ethiopia, is located 30 km from Wacha, the district capital. As you climb to the top of Mount Guge, yo"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.4",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.343103,
+6.210225
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 4,
+"name": "052",
+"datetimes": "2021-12-06T13:22:56Z",
+"elevation": 2631.314,
+"code": 52,
+"full_name": "Toshke Fuafuate",
+"short_name": "Toshke",
+"zone": "Gamo",
+"wereda": "Deremalo",
+"kebele": "Guge Shale",
+"locality_n": "Shale",
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Existing",
+"area_sqkm": "0.52km",
+"yearly_est": "140",
+"unesco_reg": "No",
+"descriptio": "The Toshke Twin waterfalls are located in Guge Shele Kebele, Darramalo Woreda, and are 30 meters high. The waterfalls are 24 km from the town.When both waterfalls fall to a height of 30 m, they form the Mast River. Eventually, after traveling 25 kilometr"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.5",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.30493,
+6.196429
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 5,
+"name": "057",
+"datetimes": "2021-12-07T07:36:33Z",
+"elevation": 2506.21,
+"code": 57,
+"full_name": "Yechoye Meskel Beal Akababer",
+"short_name": "Fange",
+"zone": "Gamo",
+"wereda": "Deremalo",
+"kebele": "Choye",
+"locality_n": "Sede",
+"organizati": "Public",
+"destinatio": "Cultural",
+"status": "Existing",
+"area_sqkm": null,
+"yearly_est": "0",
+"unesco_reg": "No",
+"descriptio": "Choye Meskel Festival, The five kebeles of the Cheye area, Lepe Lefe and Zimbe kebeles, celebrate Meskel in December. The Meskel festival, to be celebrated in December, includes three kebeles from Kemba Woreda bordering Dera Malo Woreda, 26 km outside of"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.6",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.307716,
+6.192719
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 6,
+"name": "058",
+"datetimes": "2021-12-07T08:16:30Z",
+"elevation": 2518.781,
+"code": 58,
+"full_name": "Choye Kerkeha Tibik Den",
+"short_name": null,
+"zone": "Gamo",
+"wereda": "Deremalo",
+"kebele": "Choye",
+"locality_n": "Sede",
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Existing",
+"area_sqkm": "23Ha",
+"yearly_est": "300",
+"unesco_reg": "No",
+"descriptio": "Cheye Bamboo Forest, This natural forest is located in Deye Malo Woreda, Cheye Kebele, 26 km from Wacha, the capital of the woreda. Among the services rendered by the forest to the community, traditionalists perform a variety of activities, praying for t"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.7",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.303693,
+6.185913
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 7,
+"name": "059",
+"datetimes": "2021-12-07T08:56:22Z",
+"elevation": 2569.712,
+"code": 59,
+"full_name": "Yezinge Yangare  Oge(Bale Meselal Menged)",
+"short_name": "Yangare  Oge(Meselal Menged)",
+"zone": "Gamo",
+"wereda": "Deremalo",
+"kebele": "Zinge",
+"locality_n": "Kodi",
+"organizati": "Public",
+"destinatio": "Man Made",
+"status": "Potential",
+"area_sqkm": null,
+"yearly_est": "0",
+"unesco_reg": "No",
+"descriptio": "Zinge Dengire Age Cross Road, Zenge Kebele is located at the bottom of the natural mountains and above the mountain. From time immemorial, the local community would set up a ladder to climb, since there was no shortcut to the upper king."
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.8",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.306141,
+6.197678
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 8,
+"name": "063",
+"datetimes": "2021-12-07T11:09:42Z",
+"elevation": 2510.051,
+"code": 63,
+"full_name": "Lepe Tibik Den",
+"short_name": "Tele Den",
+"zone": "Gamo",
+"wereda": "Deremalo",
+"kebele": "Lepe",
+"locality_n": "Tele",
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Existing",
+"area_sqkm": "10Ha",
+"yearly_est": "300",
+"unesco_reg": "No",
+"descriptio": "Lepe Forest is dense forest located in Melo Woreda, Lepe Kebele, 25 km from Wacha town of the woreda. If the local community picks up dry wood from the forest, it will be cursed and will be traditionally outcasted. The forest is home to a wide variety of"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.9",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.315145,
+6.221825
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 9,
+"name": "070",
+"datetimes": "2021-12-07T13:22:17Z",
+"elevation": 2192.952,
+"code": 70,
+"full_name": "Yeguge Meskel  Beal Akebaber",
+"short_name": "Yeguge Meskel Adebaby(Mula)",
+"zone": "Gamo",
+"wereda": "Deremalo",
+"kebele": "Guge Beyre, Guge Shale, Guge Gasa",
+"locality_n": "Beyre",
+"organizati": "Public",
+"destinatio": "Cultural",
+"status": "Existing",
+"area_sqkm": null,
+"yearly_est": "1400",
+"unesco_reg": "No",
+"descriptio": "Guge Meskel Celebration, The Festival of the Cross begins on Friday and ends on the 10th Sunday. It will be in October, not September. The kebele where the Meskel is celebrated are 3. The kebele where the final celebration took place is Guge Beyre which"
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.10",
+"geometry": {
+"type": "Point",
+"coordinates": [
+37.35769,
+6.25171
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 10,
+"name": "074",
+"datetimes": "2021-12-09T14:40:21Z",
+"elevation": 2290.81,
+"code": 74,
+"full_name": "Dera Gufe Den",
+"short_name": "Gufe",
+"zone": "Gamo",
+"wereda": "Deremalo",
+"kebele": "Dara Dime",
+"locality_n": "Weraguye",
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Existing",
+"area_sqkm": "24Ha",
+"yearly_est": "0",
+"unesco_reg": "No",
+"descriptio": "Dera Gufe Forest, This forest is located 14 km from Wacha town of the woreda and is located in Dera Dime kebele of Wera Guye sub-kebele. It is different from other forests in the Woreda because it is a home of Hyenas."
+}
+},
+{
+"type": "Feature",
+"id": "destination_old.279",
+"geometry": {
+"type": "Point",
+"coordinates": [
+36.64180141,
+5.83574508
+]
+},
+"geometry_name": "the_geom",
+"properties": {
+"objectid": 296,
+"name": null,
+"datetimes": null,
+"elevation": 2417,
+"code": 179,
+"full_name": "Bako Den",
+"short_name": null,
+"zone": "South Omo",
+"wereda": "Baka Dawla",
+"kebele": "Bako",
+"locality_n": "Disa",
+"organizati": "Public",
+"destinatio": "Natural",
+"status": "Potential",
+"area_sqkm": null,
+"yearly_est": null,
+"unesco_reg": "No",
+"descriptio": "The forest is one of the forests the government has been established since 1945. Foreign come to the area and built a school, roads and community health center. Compared to other attractions, it is closer to the city and easier to drive."
+}
+}
+],
